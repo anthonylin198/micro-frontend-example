@@ -6,6 +6,6 @@
   "author": "anthonylin198 <anthony.lin.198@gmail.com>",
   "license": "MIT",
   "scripts": {
-    "dev": "cd dashboard && yarn dev & cd lighthouse && yarn dev"
+    "dev": "cd dashboard && yarn dev & cd perks && yarn dev"
   }
 }
