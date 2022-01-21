@@ -1,0 +1,11 @@
+{
+  "name": "micro-frontend-example",
+  "version": "1.0.0",
+  "main": "index.js",
+  "repository": "https://github.com/anthonylin198/micro-frontend-example.git",
+  "author": "anthonylin198 <anthony.lin.198@gmail.com>",
+  "license": "MIT",
+  "scripts": {
+    "dev": "cd dashboard && yarn dev & cd lighthouse && yarn dev"
+  }
+}
